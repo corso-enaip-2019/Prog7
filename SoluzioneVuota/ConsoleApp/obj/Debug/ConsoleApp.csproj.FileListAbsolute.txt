@@ -1,0 +1,9 @@
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\bin\Debug\MyLibrary.dll
+C:\Users\triprog-7\source\repos\SoluzioneVuota\ConsoleApp\bin\Debug\MyLibrary.pdb

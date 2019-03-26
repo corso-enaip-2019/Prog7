@@ -1,0 +1,2 @@
+C:\Users\triprog-7\source\repos\Prog7\Caffeteria\Caffeteria\obj\Debug\Caffeteria.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\Prog7\Caffeteria\Caffeteria\obj\Debug\Caffeteria.csproj.CoreCompileInputs.cache

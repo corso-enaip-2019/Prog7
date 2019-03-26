@@ -1,0 +1,7 @@
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\obj\Debug\AppSemaforo.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\obj\Debug\AppSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\bin\Debug\AppSemaforo.exe.config
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\bin\Debug\AppSemaforo.exe
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\bin\Debug\AppSemaforo.pdb
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\obj\Debug\AppSemaforo.exe
+C:\Users\triprog-7\source\repos\AppSemaforo\AppSemaforo\obj\Debug\AppSemaforo.pdb

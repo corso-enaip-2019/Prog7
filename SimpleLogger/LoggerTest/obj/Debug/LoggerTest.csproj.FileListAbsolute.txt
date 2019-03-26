@@ -1,0 +1,9 @@
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\bin\Debug\SimpleLogger.pdb
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\obj\Debug\LoggerTest.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\triprog-7\source\repos\Prog7\SimpleLogger\LoggerTest\bin\Debug\SimpleLogger.dll

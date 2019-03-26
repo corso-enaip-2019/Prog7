@@ -1,0 +1,7 @@
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\bin\Debug\FirstSolution.exe.config
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\bin\Debug\FirstSolution.exe
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\bin\Debug\FirstSolution.pdb
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\obj\Debug\FirstSolution.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\obj\Debug\FirstSolution.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\obj\Debug\FirstSolution.exe
+C:\Users\triprog-7\Source\Repos\Prog7\FirstSolution\FirstSolution\obj\Debug\FirstSolution.pdb

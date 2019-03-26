@@ -1,0 +1,10 @@
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogg.exe.config
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogg.exe
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogg.pdb
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogger.exe
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogger.pdb
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\bin\Debug\SimpleLogger.exe.config
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\obj\Debug\LoggerTester.csprojResolveAssemblyReference.cache
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\obj\Debug\LoggerTester.csproj.CoreCompileInputs.cache
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\obj\Debug\SimpleLogg.exe
+c:\users\triprog-7\source\repos\SimpleLogg\SimpleLogg\obj\Debug\SimpleLogg.pdb

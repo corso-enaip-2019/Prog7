@@ -1,0 +1,7 @@
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\bin\Debug\solEsBrackets.exe.config
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\bin\Debug\solEsBrackets.exe
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\bin\Debug\solEsBrackets.pdb
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\obj\Debug\solEsBrackets.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\obj\Debug\solEsBrackets.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\obj\Debug\solEsBrackets.exe
+C:\Users\triprog-7\Source\Repos\Prog7\solEsBrackets\solEsBrackets\obj\Debug\solEsBrackets.pdb

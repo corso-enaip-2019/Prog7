@@ -1,0 +1,6 @@
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache

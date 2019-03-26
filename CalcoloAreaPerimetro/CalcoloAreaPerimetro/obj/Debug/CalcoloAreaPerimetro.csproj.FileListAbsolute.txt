@@ -1,0 +1,7 @@
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\bin\Debug\CalcoloAreaPerimetro.exe.config
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\bin\Debug\CalcoloAreaPerimetro.exe
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\bin\Debug\CalcoloAreaPerimetro.pdb
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\obj\Debug\CalcoloAreaPerimetro.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\obj\Debug\CalcoloAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\obj\Debug\CalcoloAreaPerimetro.exe
+C:\Users\triprog-7\source\repos\CalcoloAreaPerimetro\CalcoloAreaPerimetro\obj\Debug\CalcoloAreaPerimetro.pdb

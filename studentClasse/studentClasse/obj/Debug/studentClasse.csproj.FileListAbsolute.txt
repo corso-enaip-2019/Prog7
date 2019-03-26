@@ -1,0 +1,7 @@
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\bin\Debug\studentClasse.exe.config
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\bin\Debug\studentClasse.exe
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\bin\Debug\studentClasse.pdb
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\obj\Debug\studentClasse.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\obj\Debug\studentClasse.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\obj\Debug\studentClasse.exe
+C:\Users\triprog-7\source\repos\studentClasse\studentClasse\obj\Debug\studentClasse.pdb

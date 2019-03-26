@@ -1,0 +1,12 @@
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\bin\Debug\MyForm.exe
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\bin\Debug\MyForm.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\bin\Debug\MyLibrary.dll
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\bin\Debug\MyLibrary.pdb
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.csproj.GenerateResource.Cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.exe
+C:\Users\triprog-7\source\repos\SoluzioneVuota\MyForm\obj\Debug\MyForm.pdb

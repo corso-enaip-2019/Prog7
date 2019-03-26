@@ -1,0 +1,7 @@
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\obj\Debug\esempioDictionary.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\obj\Debug\esempioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\bin\Debug\esempioDictionary.exe.config
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\bin\Debug\esempioDictionary.exe
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\bin\Debug\esempioDictionary.pdb
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\obj\Debug\esempioDictionary.exe
+C:\Users\triprog-7\source\repos\esempioDictionary\esempioDictionary\obj\Debug\esempioDictionary.pdb

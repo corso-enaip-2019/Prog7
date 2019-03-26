@@ -1,0 +1,7 @@
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\bin\Debug\Anagrammi.exe.config
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\bin\Debug\Anagrammi.exe
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\bin\Debug\Anagrammi.pdb
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\obj\Debug\Anagrammi.csprojResolveAssemblyReference.cache
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\obj\Debug\Anagrammi.csproj.CoreCompileInputs.cache
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\obj\Debug\Anagrammi.exe
+C:\Users\triprog-7\source\repos\Prog7\Anagrammi\Anagrammi\obj\Debug\Anagrammi.pdb
